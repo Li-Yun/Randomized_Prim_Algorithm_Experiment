@@ -2,6 +2,7 @@
 
 Project Name: Experiment Randomized Prim’s Algorithm for Object Proposals <br/>
 Reference Paper: https://www.vision.ee.ethz.ch/publications/papers/proceedings/eth_biwi_01061.pdf
+Source Code: https://github.com/smanenfr/rp
 
 Summary:
 This project is part of Prof. Mitchell’s research project, and it was to empirically investigate how effective the object proposal method to reach completed dog walking situations. The completed dog walking situation represents dog walkers, dogs, and leashes should be found by machine learning algorithms. The idea of object proposal is the algorithms generate multiple bounding boxes for any possible object for a given image.
