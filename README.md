@@ -1,6 +1,6 @@
 # Randomized_Prim_Algorithm_Experiment
 
-Project Name: Experiment Randomized Prim’s Algorithm for Object Proposals
+Project Name: Experiment Randomized Prim’s Algorithm for Object Proposals <br/>
 Reference Paper: https://www.vision.ee.ethz.ch/publications/papers/proceedings/eth_biwi_01061.pdf
 
 Summary:
